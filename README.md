@@ -1,7 +1,7 @@
 pi-top Accessory Board Template
 ===============================
 
-<img src="https://github.com/uChip/pi-top_Template/blob/master/Board.JPG" alt="Board outline template" height="451" width="390">
+<img src="https://github.com/uChip/pi-top_Template/blob/master/Board.JPG" alt="Board outline template" height="390" width="451">
 
 This is a blank pi-top "accessory" board.  It is a template for creating custom accessory boards that fit within the pi-top laptop and pi-topCEED Raspberry Pi based computers.  It contains the board outline with the accessory buss connectors placed correctly to fit with the pi-top HUB board, pi-topSPEAKER or pi-topPROTO.
 
