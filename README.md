@@ -24,7 +24,7 @@ The board has not been fab'd and therefore is not tested, but I did a 1:1 printo
 
 ## File Formats  
 
-Hardware design files are in "KiCad EDA" .kicad_pcb and .sch formats.  A free version of the software can be downloaded from www.kicad.org. 
+Hardware design files are in "KiCad EDA" .kicad_pcb and .sch formats created with KiCad version (2017-05-14 revision 14bb238b3).  A free version of the software can be downloaded from www.kicad.org.
 
 Documentation is generally done in Wordpad .rtf format.
 
