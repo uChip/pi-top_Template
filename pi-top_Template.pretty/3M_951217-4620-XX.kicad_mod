@@ -1,4 +1,4 @@
-(module library:3M_951217-4620-XX (layer F.Cu) (tedit 591E3B26)
+(module 3M_951217-4620-XX (layer F.Cu) (tedit 59382016)
   (fp_text reference J1 (at 0 5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -67,4 +67,9 @@
   (pad 5 smd rect (at -11 2 180) (size 1 3) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -15 2 180) (size 1 3) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -15 -1.5 180) (size 1 2) (layers F.Cu F.Paste F.Mask))
+  (model ${KIPRJMOD}/pi-top_Template.pretty/3M_header.step
+    (at (xyz 0.6791338582677166 0.2165354330708661 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 180))
+  )
 )
