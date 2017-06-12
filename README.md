@@ -1,4 +1,4 @@
-pi-top Accessory Board Template (KiCad daily build)
+pi-top Accessory Board Template - Surface-Mount Version (KiCad daily build)
 ===================================================
 
 <img src="https://github.com/uChip/pi-top_Template/blob/master/Board.PNG" alt="Board outline template" height="390" width="451">
